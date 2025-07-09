@@ -1,0 +1,71 @@
+####################################################################################
+####################################################################################
+####################################################################################
+###                                                                              ###
+###                                                                              ###
+###  LIBRARY OF TRIANGULATIONS                                                   ###
+###  by Bruno Benedetti and Frank H. Lutz                                        ###
+###  http://page.math.tu-berlin.de/~lutz/stellar/library_of_triangulations.html  ###
+###                                                                              ###
+###                                                                              ###
+###  name of example:                                                            ###
+###                                                                              ###
+###    d2_n9_5torsion                                                            ###
+###                                                                              ###
+###                                                                              ###
+###  description:                                                                ###
+###                                                                              ###
+###    2-dimensional simplicial complex with 5-torsion                           ###
+###    derived from lens space L(5,1)                                            ###
+###                                                                              ###
+###                                                                              ###
+###  properties:                                                                 ###
+###                                                                              ###
+###    f=(9,32,24),                                                              ###
+###    H_*=(Z,Z_5,0),                                                            ###
+###    perfect discrete Morse vector: (1,1,1)                                    ###
+###                                                                              ###
+###                                                                              ###
+###  references:                                                                 ###
+###                                                                              ###
+###    B. Benedetti, C. Lai, D. Lofano, F. H. Lutz.                              ###
+###    Random simple-homotopy theory.                                            ###
+###    Arxiv:2107.09862 (2021).                                                  ###
+###                                                                              ###
+###    Ulrich Brehm and Jacek Świa̧tkowski.                                       ###
+###    Triangulations of lens spaces with few simplices.                         ###
+###    SFB 288 Preprint NO. 59, TU Berlin, 26 pages, (1993).                     ###
+###                                                                              ###
+###    Heinrich Tietze.                                                          ###
+###    Über die topologischen Invarianten mehrdimensionaler Mannigfaltigkeiten.  ###
+###    Monatshefte für Mathematik und Physik 19 (1908), no. 1, 1–118.            ###
+###                                                                              ###
+###                                                                              ###
+####################################################################################
+####################################################################################
+####################################################################################
+
+1 2 7
+1 2 8
+1 3 5
+1 3 6
+1 5 7
+1 6 8
+1 6 9
+1 7 9
+2 3 6
+2 3 8
+2 4 5
+2 4 6
+2 4 7
+2 5 6
+3 4 5
+3 4 7
+3 5 9
+3 6 7
+3 8 9
+4 6 8
+4 7 9
+4 8 9
+5 6 7
+5 6 9
